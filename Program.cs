@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Первая задача на поиск большего числа из трёх");
+﻿Console.WriteLine("Вторая задача на поиск большего числа из трёх");
 
 bool valid = false;
 int num1 = 0;
